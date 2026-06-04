@@ -1,8 +1,6 @@
 def main(x=1):
 	print("hello")
-	x = x + 1
-	print(x)
-	
+    print("修正します")
 
 if __name__ == "__main__":
 	main()
