@@ -1,4 +1,4 @@
-def main(x=1):
+def main():
 	print("hello")
     print("修正します")
 
